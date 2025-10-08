@@ -55,7 +55,7 @@ All insights are **visualized using Python, pandas, matplotlib, and seaborn**, w
 ---
 
 ### 2️⃣ Customer Segmentation 
-**Segment Performance:** Shows total sales and average order value by Consumer, Corporate, and Home Office segments.
+**Segment Performance:** Shows total sales and average order value by Consumers and Top VIP customers.
 
 <img width="746" height="465" alt="Image4" src="https://github.com/user-attachments/assets/31829d59-744f-4e84-a482-2cc7fe8912d7" />
 
