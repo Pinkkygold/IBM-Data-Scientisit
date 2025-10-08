@@ -48,7 +48,8 @@ All insights are **visualized using Python, pandas, matplotlib, and seaborn**, w
 ---
 **Heatmap of Sales, Profit & Quantity:** Visual overview of product and regional performance.
 **Total Sales vs Total Profit Heatmap:** Highlights high-performing and underperforming areas.
-<img width="746" height="465" alt="Image4" src="https://github.com/user-attachments/assets/5d9a1783-18f0-428e-9f4c-1d422c4bb39b" />
+
+<img width="456" height="281" alt="Image3" src="https://github.com/user-attachments/assets/815d2325-23b6-4b9c-a977-9fdcb677f687" />
 
 
 ---
@@ -64,7 +65,10 @@ All insights are **visualized using Python, pandas, matplotlib, and seaborn**, w
 ### 3️⃣ Product Performance Insights
 **Category & Sub-Category Analysis:** Technology and Copiers are top performers; Furniture often incurs losses.
 
-<img width="1054" height="591" alt="Image" src="https://github.com/user-attachments/assets/5ced34e3-ba84-4308-8e2b-f68dca533fee" />
+<img width="1054" height="591" alt="Image" src="https://github.com/user-attachments/assets/06c9fb2b-fc69-4e9c-804d-df31471bba91" />
+
+ **Profit by Category and region:** 
+<img width="907" height="355" alt="Screenshot 2025-10-08 at 8 53 06 PM" src="https://github.com/user-attachments/assets/6892a956-dd15-40a3-ab43-2513c93180f5" />
 
 ---
 
