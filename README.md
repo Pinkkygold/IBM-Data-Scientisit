@@ -27,36 +27,44 @@ All insights are **visualized using Python, pandas, matplotlib, and seaborn**, w
 
 ## 📊 Mini Dashboard Gallery
 
-### 1️⃣ Sales & Profit Heatmaps
-[![Net Profit Year vs Month](assets/images/net_profit_heatmap.png)](assets/images/net_profit_heatmap.png)  
-**Net Profit Year vs Month:** Identify seasonal fluctuations, peak periods, and loss zones.
+### 1️⃣ Sales & Profit 
 
-[![Profit by Category & Sub-Category](assets/images/monthly_profit_heatmap.png)](assets/images/monthly_profit_heatmap.png)  
-**Profit by Category & Sub-Category:** Highlight high-performing vs low-performing product types.
+<img width="829" height="465" alt="Image5" src="https://github.com/user-attachments/assets/e6ae4bce-cff9-480c-9985-6d70771f9cf7" />
+<img width="451" height="224" alt="image" src="https://github.com/user-attachments/assets/8e52ec41-3779-4b39-97cb-0f54f8c5cc17" />
 
 ---
 
-### 2️⃣ Customer Segmentation
-[![Customer Segmentation](assets/images/customer_segmentation.png)](assets/images/customer_segmentation.png)  
+<br><br>
+<br><br>
+
+
+**Profit Analysis by Pivot Table:**  **Identify seasonal fluctuations, peak periods, and loss zones.**
+<br><br>
+
+<img width="823" height="601" alt="Image2" src="https://github.com/user-attachments/assets/f58683b5-7a52-4757-9789-821a5a2fc654" />
+
+<br><br>
+
+---
+**Heatmap of Sales, Profit & Quantity:** Visual overview of product and regional performance.
+**Total Sales vs Total Profit Heatmap:** Highlights high-performing and underperforming areas.
+<img width="746" height="465" alt="Image4" src="https://github.com/user-attachments/assets/5d9a1783-18f0-428e-9f4c-1d422c4bb39b" />
+
+
+---
+
+### 2️⃣ Customer Segmentation 
 **Segment Performance:** Shows total sales and average order value by Consumer, Corporate, and Home Office segments.
+
+<img width="746" height="465" alt="Image4" src="https://github.com/user-attachments/assets/31829d59-744f-4e84-a482-2cc7fe8912d7" />
+
 
 ---
 
 ### 3️⃣ Product Performance Insights
-[![Product Performance](assets/images/product_performance.png)](assets/images/product_performance.png)  
 **Category & Sub-Category Analysis:** Technology and Copiers are top performers; Furniture often incurs losses.
 
----
-
-### 4️⃣ Regional & Market Analysis
-[![Region vs Segment Profit](assets/images/region_segment_profit.png)](assets/images/region_segment_profit.png)  
-**Profit by Region and Segment:** Visualizes regional strengths and underperforming markets.
-
----
-
-### 5️⃣ Shipping & Temporal Trends
-[![Quarterly Profit Trends](assets/images/quarter_profit.png)](assets/images/quarter_profit.png)  
-**Quarterly Trends & Shipping:** Highlights seasonal trends, shipping costs impact, and cyclical patterns.
+<img width="1054" height="591" alt="Image" src="https://github.com/user-attachments/assets/5ced34e3-ba84-4308-8e2b-f68dca533fee" />
 
 ---
 
@@ -69,7 +77,7 @@ Global_Superstore.ipynb      # Main analysis notebook
 dataset.csv                  # Dataset
 
 /Awab_project_Analysis
-PDF files with charts, heatmaps, and assets
+PDF files with charts, heatmaps, and visual assets
 
 /assets/images
 All visualizations in PNG format
@@ -83,13 +91,13 @@ All visualizations in PNG format
 <details>
 <summary>Click to expand insights</summary>
 
-- **High-value sales drive revenue**, Furniture often loses profit due to shipping & discounts.  
-- **Consumers dominate sales**, Corporate & Home Office segments have higher average order values.  
-- **Technology & Copiers** are most profitable.  
-- **Optimize shipping & discount strategies**.  
+- **High-value sales drive revenue**, while Furniture often loses profit due to high shipping and discounts.  
+- **Consumers dominate sales volume**, Corporate and Home Office segments have higher average order values.  
+- **Technology products** and **Copiers** are the most profitable.  
+- **Shipping and discount strategies** need optimization.  
 - **Seasonal trends:** Sales peak during Q4 (Nov–Dec).  
 
-> Full analysis, graphs, and recommendations are in the notebook.
+> Full analysis, graphs, and actionable recommendations are in the notebook.
 
 </details>
 
@@ -121,20 +129,6 @@ notebooks/Global_Superstore.ipynb
 
 **Built with ❤️ using IBM Watsonx and Python**
 
-```
 
----
 
-✅ **What this achieves:**
 
-1. **Mini-dashboard effect** – each chart gets a visual badge and clickable preview.  
-2. **Portfolio-ready** – recruiters can scroll and explore visuals **without opening files**.  
-3. **Collapsible insights** – keeps README neat and professional.  
-4. **Interactive structure** – easy to navigate, explore, and share.  
-
----
-
-If you want, I can **also create a version where each image preview shows a small animated GIF of the plot** (like a hover-over live view), which looks **very impressive for GitHub portfolios**.  
-
-Do you want me to do that next?
-```
